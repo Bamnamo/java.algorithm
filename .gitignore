@@ -1,13 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-bin/chapter15/NumBoolean.class
-bin/chapter15/GradeBoolean.class
-bin/chapter15/FourPointOperation.class
-bin/chapter15/Alarm.class
-bin/chapter15/LeapYearCheck.class
-bin/chapter15/QuadrantSection.class
-bin/chapter15/ForNumSum.class
-bin/chapter15/ForSumofIntegers.class
-bin/chapter15/MultiplicationTable.class
-bin/chapter15/*.class
+*.class
 
 
